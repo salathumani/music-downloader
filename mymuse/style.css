@@ -34,7 +34,6 @@
     flex-direction: column;
     align-items: center;
     justify-content: space-evenly;
-    position: relative;
   }
   
   .section-1-icons i {
@@ -85,20 +84,6 @@
     cursor: pointer; 
   
 }
-.track1{
- opacity: 1;
- display: flex;
- position: relative;
- 
-}
-.change{
-  opacity: 1;
-}
-.search-form-btn.change{
-  opacity: 1;
-}
-
-
   /* End of Section 1 */
   /* section 2 */
   .section-2{

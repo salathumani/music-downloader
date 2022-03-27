@@ -13,10 +13,3 @@ setInterval(() => {
 		icon.nextElementSibling.classList.add('change')
 	}
 }, 4000)
-
-document.querySelector('.search-form-btn').addEventListener
-('click',() =>{
-	document.querySelectorAll('.popup').forEach((item)=>{
-		item.classlist.toggle('change')
-	})
-}) 
